@@ -1,16 +1,49 @@
-# chat_app
+🚗 Smart Parking App
 
-A new Flutter project.
+A Flutter application that helps users find, book, and manage parking spaces in real time.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+⚠️ Important Security Notice
+🔐 All API keys (Google Maps, Razorpay, Firebase) visible in this repository are dummy/test keys and do not belong to any live project.
 
-A few resources to get you started if this is your first Flutter project:
+They are restricted, non-functional, and included only for demonstration purposes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+⭐ Features
+
+🗺️ Google Maps Integration — browse nearby parking spots
+
+🔐 Firebase Authentication — secure user login
+
+📡 Firestore Real-Time Storage — live slot availability
+
+💳 Razorpay Payment Gateway — test-mode payment flow
+
+🅿️ Slot Booking System — select time, date, and location
+
+📅 Booking Confirmation + Firestore Records
+
+🛠️ Tech Stack
+
+Flutter (UI + Logic)
+
+Firebase (Auth, Firestore, Storage)
+
+Google Maps SDK
+
+Razorpay Payment Integration
+
+
+
+📚 What This Project Demonstrates
+
+Clean Flutter state management
+
+Modular and scalable app structure
+
+Real-time Firestore integration
+
+Secure booking + payment flow
+
+Production-ready UI design principles
