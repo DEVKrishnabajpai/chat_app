@@ -1,6 +1,6 @@
 Community Chat App
 
-A Flutter-powered real-time chat application inspired by Telegram, built with Firebase backend services. Designed for closed community communication, enabling secure, seamless messaging for groups of interest.
+🔐 Chat freely in private communities — fast, secure, and built for modern communication.
 
 🚀 Features
 
